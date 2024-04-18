@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "3313199e-22ba-48ad-83d8-6d4ee2876652"
+      }
+    },
+    "android": {
+      "package": "com.xave123.awesomeproject"
+    }
+  }
+}
